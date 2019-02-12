@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "date": "2018-07-20T00:00:00.000Z",
+    "sender": 1,
+    "recipient": 5,
+    "body": "Hola, ¿cómo vas?"
+  },
+  {
+    "id": 2,
+    "date": "2017-07-20T00:00:01.000Z",
+    "sender": 5,
+    "recipient": 1,
+    "body": "Hola. Bien. Ando por EEUU."
+  },
+  {
+    "id": 3,
+    "date": "2017-07-20T12:02:43.000Z",
+    "sender": 1,
+    "recipient": 5,
+    "body": "¿Vienes este año?"
+  },
+  {
+    "id": 5,
+    "date": "2017-07-20T12:06:11.000Z",
+    "sender": 1,
+    "recipient": 5,
+    "body": "Gracias por agregarme."
+  },
+  {
+    "id": 6,
+    "date": "2017-07-20T19:03:19.000Z",
+    "sender": 5,
+    "recipient": 1,
+    "body": "Pues no sé. \nLlámame luego."
+  },
+  {
+    "id": 8,
+    "date": "2017-07-20T19:51:11.000Z",
+    "sender": 1,
+    "recipient": 5,
+    "body": "Claro. \nCuando salga de trabajar."
+  },
+  {
+    "id": 4,
+    "date": "2017-07-20T12:05:34.000Z",
+    "sender": 5,
+    "recipient": 1,
+    "body": "Eh, feliz cumpleaños.\n¿Lo celebras?"
+  },
+  {
+    "id": 13,
+    "date": "2017-12-18T10:10:35.000Z",
+    "sender": 1,
+    "recipient": 5,
+    "body": "No.\nTengo bastante tarea pendiente...\nOtra semana."
+  },
+  {
+    "id": 14,
+    "date": "2017-07-21T15:01:13.000Z",
+    "sender": 1,
+    "recipient": 7,
+    "body": "Hola Víctor.\n¿Cómo está la familia?"
+  },
+  {
+    "id": 36,
+    "date": "2017-07-26T00:40:52.000Z",
+    "sender": 6,
+    "recipient": 1,
+    "body": "¡Hola!"
+  },
+  {
+    "id": 38,
+    "date": "2017-07-26T01:13:42.000Z",
+    "sender": 1,
+    "recipient": 6,
+    "body": "¡Cuánto tiempo!"
+  },
+  {
+    "id": 39,
+    "date": "2017-07-26T01:14:54.000Z",
+    "sender": 6,
+    "recipient": 1,
+    "body": "¿Cómo va todo?"
+  },
+  {
+    "id": 40,
+    "date": "2017-07-26T01:15:19.000Z",
+    "sender": 1,
+    "recipient": 6,
+    "body": "Bien. \n¿Cómo vas? ¿Y la familia?"
+  },
+  {
+    "id": 41,
+    "date": "2017-07-26T01:15:45.000Z",
+    "sender": 6,
+    "recipient": 1,
+    "body": "Todo bien.\n¿Vienes este año por navidad?\nNos veremos en Nochevieja."
+  },
+  {
+    "id": 45,
+    "date": "2016-08-04T01:33:47.000Z",
+    "sender": 7,
+    "recipient": 1,
+    "body": "Todo bien. \nPero los años no pasan en vano."
+  },
+  {
+    "id": 46,
+    "date": "2016-08-06T16:49:58.000Z",
+    "sender": 1,
+    "recipient": 5,
+    "body": "Hola."
+  },
+  {
+    "id": 48,
+    "date": "2016-08-07T15:34:12.000Z",
+    "sender": 5,
+    "recipient": 1,
+    "body": "Eh, qué tal."
+  },
+  {
+    "id": 49,
+    "date": "2016-08-09T22:06:02.000Z",
+    "sender": 1,
+    "recipient": 5,
+    "body": "Bien, saliendo de viaje."
+  },
+  {
+    "id": 50,
+    "date": "2016-08-10T18:13:00.000Z",
+    "sender": 1,
+    "recipient": 5,
+    "body": "Vuelvo en abril.\n"
+  },
+  {
+    "id": 51,
+    "date": "2016-08-10T18:14:13.000Z",
+    "sender": 5,
+    "recipient": 1,
+    "body": "Suerte. Buen viaje.\n"
+  },
+  {
+    "id": 52,
+    "date": "2016-08-14T14:07:43.000Z",
+    "sender": 8,
+    "recipient": 1,
+    "body": "Eh, Alejandro. ¡Qué alegría verte por aquí!"
+  },
+  {
+    "id": 53,
+    "date": "2016-08-14T14:09:30.000Z",
+    "sender": 1,
+    "recipient": 8,
+    "body": "¡Antonio! Hace tiempo que no te veo."
+  },
+  {
+    "id": 54,
+    "date": "2016-08-14T14:20:08.000Z",
+    "sender": 17,
+    "recipient": 1,
+    "body": "¿Cómo va? ¿Puedes meterme en tu lista de amigos? Gracias."
+  }
+]

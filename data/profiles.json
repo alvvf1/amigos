@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "first_name": "Alvaro",
+    "last_name": "VF",
+    "birth_date": "1984-03-23T00:00:00.000Z",
+    "reg_date": "1984-03-23T00:00:00.000Z",
+    "email": "av@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+691109457",
+    "gender": 1
+  },
+  {
+    "id": 6,
+    "first_name": "Miguel",
+    "last_name": "Abellán",
+    "birth_date": "1920-10-15T00:00:00.000Z",
+    "reg_date": "1920-10-15T00:00:00.000Z",
+    "email": "m_herbu@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+66545465465",
+    "gender": 1
+  },
+  {
+    "id": 7,
+    "first_name": "Víctor",
+    "last_name": "López",
+    "birth_date": "1891-12-07T00:00:00.000Z",
+    "reg_date": "1891-12-07T00:00:00.000Z",
+    "email": "v_lopez@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+66545465465",
+    "gender": 1
+  },
+  {
+    "id": 8,
+    "first_name": "Antonio",
+    "last_name": "Soria",
+    "birth_date": "1959-08-24T00:00:00.000Z",
+    "reg_date": "1959-08-24T00:00:00.000Z",
+    "email": "antoniojue@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+66545465465",
+    "gender": 1
+  },
+  {
+    "id": 9,
+    "first_name": "Alfredo",
+    "last_name": "Cantona",
+    "birth_date": "1899-01-17T00:00:00.000Z",
+    "reg_date": "1899-01-17T00:00:00.000Z",
+    "email": "reverent@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+66545465465",
+    "gender": 1
+  },
+  {
+    "id": 10,
+    "first_name": "Pablo",
+    "last_name": "Escobar",
+    "birth_date": "1949-12-01T00:00:00.000Z",
+    "reg_date": "1949-12-01T00:00:00.000Z",
+    "email": "pablo@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+66545465465",
+    "gender": 1
+  },
+  {
+    "id": 11,
+    "first_name": "Juan",
+    "last_name": "Fernández",
+    "birth_date": "1903-06-22T00:00:00.000Z",
+    "reg_date": "1903-06-22T00:00:00.000Z",
+    "email": "jonfernan@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+66545465465",
+    "gender": 1
+  },
+  {
+    "id": 3,
+    "first_name": "Marta",
+    "last_name": "Gomez",
+    "birth_date": "1955-04-29T00:00:00.000Z",
+    "reg_date": "1955-04-29T00:00:00.000Z",
+    "email": "zina@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+66545465465",
+    "gender": 2
+  },
+  {
+    "id": 12,
+    "first_name": "Miguel",
+    "last_name": "Cornejo",
+    "birth_date": "1913-09-04T00:00:00.000Z",
+    "reg_date": "1913-09-04T00:00:00.000Z",
+    "email": "koen@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+66545465465",
+    "gender": 1
+  },
+  {
+    "id": 13,
+    "first_name": "Carlos",
+    "last_name": "Bramante",
+    "birth_date": "1930-01-01T00:00:00.000Z",
+    "reg_date": "1930-01-01T00:00:00.000Z",
+    "email": "bramante@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+66545465465",
+    "gender": 1
+  },
+  {
+    "id": 2,
+    "first_name": "Vicente",
+    "last_name": "Tinto",
+    "birth_date": "1928-03-29T00:00:00.000Z",
+    "reg_date": "1928-03-29T00:00:00.000Z",
+    "email": "vinc@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": null,
+    "gender": 1
+  },
+  {
+    "id": 5,
+    "first_name": "Sara",
+    "last_name": "Bueno",
+    "birth_date": "1933-12-08T00:00:00.000Z",
+    "reg_date": "1933-12-08T00:00:00.000Z",
+    "email": "vitya@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+69219999999",
+    "gender": 2
+  },
+  {
+    "id": 14,
+    "first_name": "Gustavo",
+    "last_name": "Hermida",
+    "birth_date": "1953-03-20T00:00:00.000Z",
+    "reg_date": "1953-03-20T00:00:00.000Z",
+    "email": "sharko@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+69696546546",
+    "gender": 1
+  },
+  {
+    "id": 15,
+    "first_name": "Luciano",
+    "last_name": "Dano",
+    "birth_date": "1897-11-24T00:00:00.000Z",
+    "reg_date": "1897-11-24T00:00:00.000Z",
+    "email": "lucianogermn@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+69696546546",
+    "gender": 1
+  },
+  {
+    "id": 16,
+    "first_name": "Domingo",
+    "last_name": "Velasco",
+    "birth_date": "1940-04-25T00:00:00.000Z",
+    "reg_date": "1940-04-25T00:00:00.000Z",
+    "email": "donvelasco@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+66545465465",
+    "gender": 1
+  },
+  {
+    "id": 17,
+    "first_name": "Jaime",
+    "last_name": "Valiente",
+    "birth_date": "1954-02-18T00:00:00.000Z",
+    "reg_date": "1954-02-18T00:00:00.000Z",
+    "email": "valientejam@mail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "phone": "+76546495165",
+    "gender": 1
+  }
+]
