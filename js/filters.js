@@ -1,4 +1,4 @@
-var app = angular.module('benchmates');
+var app = angular.module('avredsocial');
 
 app.filter('startFrom', function () {
     return function (input, start) {

@@ -1,4 +1,4 @@
-var app = angular.module('benchmates');
+var app = angular.module('avredsocial');
 
 app.service('UserService', ['$http', '$location', function ($http, $location) {
 

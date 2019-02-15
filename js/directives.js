@@ -1,4 +1,4 @@
-var app = angular.module('benchmates');
+var app = angular.module('avredsocial');
 
 app.directive('buttonSendMessage', function () {
     return {

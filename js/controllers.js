@@ -1,4 +1,4 @@
-var app = angular.module('benchmates');
+var app = angular.module('avredsocial');
 
 app.controller('tabController', ['$q', '$scope', '$route', '$location', 'UserService', 'MessageService',
     function ($q, $scope, $route, $location, UserService, MessageService) {
